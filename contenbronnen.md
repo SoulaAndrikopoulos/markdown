@@ -1,5 +1,5 @@
 # Overzicht van Content Bronnen
- De onderstaande tabellen weergeven de soorten content en de visualisaties daarvan 
+ **De onderstaande tabellen weergeven de soorten content en de visualisaties daarvan 
 
 | Content bronnen diorama 	| Visualisatie                                                            	|
 |----------	|-------------------------------------------------------------------------	|
@@ -10,10 +10,10 @@
 
 
 
-| Content bronnen tijdlijn 	| Visualisatie                                              |
-|--------------------------	|------------------------------------------------------	    |
-| Tekst                    	| informatie over het gebouw en ARTIS (ARTIS archief)    	|
-| Foto’s                   	| Historische beelden (ARTIS archief)                    	|
-| Video’s                  	| Titels van de status van het diorama (eigen inbreng) 	    |
-| Geluid                   	| Muziek                                                 	|
-| Licht/kleur              	| Verschillende kleur per eeuw                           	|
+| Content bronnen tijdlijn 	| Visualisatie                                             |
+|--------------------------	|------------------------------------------------------	   |
+| Tekst                    	| informatie over het gebouw en ARTIS (ARTIS archief)     	|
+| Foto’s                   	| Historische beelden (ARTIS archief)                   	  |
+| Video’s                  	| Titels van de status van het diorama (eigen inbreng)     |
+| Geluid                   	| Muziek                                                	  |
+| Licht/kleur              	| Verschillende kleur per eeuw                            	|
