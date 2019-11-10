@@ -1,5 +1,5 @@
 # Overzicht van Content Bronnen
- **De onderstaande tabellen weergeven de soorten content en de visualisaties daarvan 
+ ** De onderstaande tabellen weergeven de soorten content en de visualisaties daarvan **
 
 | Content bronnen diorama 	| Visualisatie                                                            	|
 |----------	|-------------------------------------------------------------------------	|
