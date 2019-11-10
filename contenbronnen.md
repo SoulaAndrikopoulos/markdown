@@ -8,8 +8,9 @@
 | Tekst    	| Titels van de status van het diorama (eigen inbreng)                    	|
 | Geluid   	| Opmerkingen over de status van het diorama                              	|
 |-----------|---------------------------------------------------------------------------|
-| Wanneer wordt het ingezet |-----------------------------------------------------------|
-Wanneer de gebruiker op een specifieke knop klikt wordt de bijbehorende foto van de status van de duinen samen met de tekst en het geluid opgestuurd naar de projectie. Dit wordt dan geprojecteerd op het glas. |
+
+| Wanneer wordt het ingezet |
+Wanneer de gebruiker op een specifieke knop klikt wordt de bijbehorende foto van de status van de duinen samen met de tekst en het geluid opgestuurd naar de projectie. Dit wordt dan geprojecteerd op het glas.
 
 
 
