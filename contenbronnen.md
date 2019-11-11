@@ -14,7 +14,7 @@
 | Foto’s                   	| Historische beelden (ARTIS archief)                   	  | .JPEG          |
 | Video’s                  	| Titels van de status van het diorama (eigen inbreng)      | .MP4           |
 | Geluid                   	| Geluidseffect                                          	  | .MP3           |
-| Licht/kleur              	| Verschillende kleur per eeuw/ sfeerlichten               	| RGB/IOT        |
+| Licht/kleur              	| Verschillende kleur per eeuw/ sfeerlichten               	| RGB/JS         |
 
 **Wanneer wordt het ingezet**\
 Alle content bronnen worden standaard op de muur getoond. Enige interactie is wanneer de gebruiker bijvoorbeeld op een knop klikt dan wordt de bijbehorende video/geluid afgespeeld.
