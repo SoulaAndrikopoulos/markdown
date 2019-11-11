@@ -5,12 +5,12 @@
 |----------	|-------------------------------------------------------------------------	| ------------- |
 | Foto’s   	| Foto’s van de vervuiling van de duinen ( huidig diorama, nu, 2050)      	| .JPEG         |
 | Animatie 	| Animatie van foto’s van het ARTIS archief waarmee we een animatie maken 	| .MP4/GIF      |
-| Tekst    	| Titels van de status van het diorama (eigen inbreng)                    	| .TXT          |
+| Tekst    	| Titels van de status van het diorama (eigen inbreng)                    	| Powerpoint    |
 | Geluid   	| Opmerkingen over de status van het diorama                              	| .MP4          |
 
 | Content bronnen tijdlijn 	| Visualisatie                                              | Formaat        |
 |--------------------------	|------------------------------------------------------	    | -------------- |
-| Tekst                    	| Informatie over het gebouw en ARTIS (ARTIS archief)     	| .TXT           |
+| Tekst                    	| Informatie over het gebouw en ARTIS (ARTIS archief)     	| Powerpoint     |
 | Foto’s                   	| Historische beelden (ARTIS archief)                   	  | .JPEG          |
 | Video’s                  	| Titels van de status van het diorama (eigen inbreng)      | .MP4           |
 | Geluid                   	| Geluidseffect                                          	  | .MP3           |
