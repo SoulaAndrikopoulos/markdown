@@ -12,7 +12,7 @@
 |--------------------------	|------------------------------------------------------	    | -------------- |
 | Tekst                    	| Informatie over het gebouw en ARTIS (ARTIS archief)     	| Powerpoint     |
 | Foto’s                   	| Historische beelden (ARTIS archief)                   	  | .JPEG          |
-| Video’s                  	| Titels van de status van het diorama (eigen inbreng)      | .MP4           |
+| Video’s                  	| voice overs, historische beelden (ARTIS archief)          | .MP4           |
 | Geluid                   	| Geluidseffect                                          	  | .MP3           |
 | Licht/kleur              	| Verschillende kleur per eeuw/ sfeerlichten               	| RGB/JS         |
 
